@@ -84,6 +84,7 @@ I am dedicated to making an impact, with a focus on analytics engineering, data 
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.1-336791.svg)](https://www.postgresql.org/docs/15/index.html)
 [![Oracle DataBase](https://img.shields.io/badge/Oracle20Database-15.1-F80000.svg)](https://www.oracle.com/ke/database/)
+[![Microsoft SQL Server](https://img.shields.io/badge/SQLServer-grey.svg)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 ---
 ### 📊 Data Visualization
 
