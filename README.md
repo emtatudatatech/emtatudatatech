@@ -10,26 +10,28 @@ Welcome to my GitHub profile 🙏🏼
 
 ### Analytics Engineer | Data Scientist
 
-*I create transformative business intelligence reports and dashboards, develop scalable data pipelines and build machine learning models
-resulting in valuable business insights.*
+*Analytical and results-driven Analytics Engineer with a strong foundation in data science, engineering, and business intelligence, delivering innovative solutions that drive business growth and operational excellence.*
 
 ---
 ### Profile Summary
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emtatudatatech&label=Profile%20views&color=0e75b6&style=flat" alt="emtatudatatech" /> </p>
 
-I am an experienced Data Scientist, previously in Actuarial science with half a decade of work experience.
+Experienced in creating actionable insights through advanced analytics, data visualization, and machine learning to optimize decision-making and improve customer engagement.
 <br><br>
-I am a driven data expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, data visualization, deep learning, mathematics, and analytics engineering, and I'm always learning new things in these fields and more. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.
+Expertise in developing and implementing BI dashboards, machine learning models, and ETL processes to enhance operational efficiency and achieve strategic goals.
 <br><br>
-In addition to my expertise in business intelligence and data science, I have also worked with DevOps. I favour workflows that allow me to create, collaborate on and implement machine learning workflows that resolve to scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.
+Proven ability to lead impactful projects, optimize banking processes, and deliver measurable improvements in customer experience and organizational performance.
 <br><br>
-I am dedicated to making an impact, with a focus on analytics engineering, data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/emtatudatatech?tab=repositories))*. I am open to chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 michaelmainacodes@gmail.com
+Skilled in fostering data-driven cultures through training programs, empowering teams with enhanced capabilities, and driving a consistent focus on leveraging analytics for business success.
+<br><br>
+Adept at fraud detection, customer segmentation, and digital transformation, with a track record of reducing costs, increasing revenue, and streamlining workflows.
+<br><br>
+I am dedicated to making an impact, with a focus on AI engineering, analytics engineering, and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/emtatudatatech?tab=repositories))*. I am open to chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 michaelmainacodes@gmail.com
 
-#### Professional Links:
+## Professional Links:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michael-maina-0a6a5b90/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/emtatudatatech)
-
 
 ---
 ## Domains of Interests & Expertise
@@ -42,92 +44,107 @@ I am dedicated to making an impact, with a focus on analytics engineering, data 
 :comet: Data Engineering <br>
 :comet: MLops <br>
 :comet: Data Analytics <br>
-:comet: Data Storytelling
+:comet: Data Storytelling <br>
+:comet: Full-Stack Web Development
 
 ---
-## Skills 
 
+## Tool kit
+### Cloud System
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-us/)
 
-### Languages, Libraries, Tools and Frameworks:<br>
-<br>
-<p align="left">
-    Python <br>
-    Numpy <br>
-    Pandas <br>
-    Sci-kit learn <br>
-    Statsmodels <br>
-    Scipy <br>
-    PostgreSQL <br>
-    Microsoft SQL Server <br>
-    SQLite <br>
-    Matplotlib <br>
-    Seaborn <br>
-    Tensorflow <br>
-    Git <br>
-    Microsoft 365 <br>
-    Jupyter <br>
-    Google_Colaboratory <br>
-</p>
+### Code Editor
+[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](https://codepen.io/)
+[![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff)](https://www.gitpod.io/)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/front/main/index.html)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/downloads/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](https://www.jetbrains.com/pycharm/)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](https://docs.python.org/3/library/idle.html)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 
----
-### 💻 Programming
+### Collaboration Tool
+[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](https://asana.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](https://www.atlassian.com/software/jira)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](https://slack.com/)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](https://www.zoom.com/)
 
-[![Python](https://img.shields.io/badge/Python-3.12.7-blue.svg)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-2.1.1-orange.svg)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.2.3-green.svg)](https://pandas.pydata.org/)
-[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.5.2-red.svg)](https://scikit-learn.org/stable/)
-[![statsmodels](https://img.shields.io/badge/statsmodels-0.14.3-yellow.svg)](https://www.statsmodels.org/stable/index.html)
-[![SciPy](https://img.shields.io/badge/SciPy-1.14.1-orange.svg)](https://scipy.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-black.svg)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/)
----
-### 💾 Database Management
+### Database & SQL
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
+[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](https://www.oracle.com/ke/database/)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/15/index.html)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](https://redis.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.1-336791.svg)](https://www.postgresql.org/docs/15/index.html)
-[![Oracle DataBase](https://img.shields.io/badge/Oracle20Database-15.1-F80000.svg)](https://www.oracle.com/ke/database/)
-[![Microsoft SQL Server](https://img.shields.io/badge/SQLServer-grey.svg)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
----
-### 📊 Data Visualization
-
-[![PowerBI](https://img.shields.io/badge/PowerBI-2024.0-green.svg)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-4.0.0-orange.svg)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-red.svg)](https://seaborn.pydata.org/)
----
-### 🤖 ML/DL Frameworks
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5.0-orange.svg)](https://www.tensorflow.org/) 
----
-<!-- ### 🗣️ NLP
-
-[![NLTK](https://img.shields.io/badge/NLTK-3.6.0-yellow.svg)](https://www.nltk.org/)
-[![NLU](https://img.shields.io/badge/NLU-NLP-yellowgreen.svg)](https://github.com/nlu-tools/nlu)
-[![Dialogue Management](https://img.shields.io/badge/Dialogue%20Management-NLP-yellowgreen.svg)](https://github.com/dialogue-management)
-[![RASA](https://img.shields.io/badge/RASA-3.11.0-green.svg)](https://rasa.com/)
-[![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
-[![RegEx](https://img.shields.io/badge/RegEx-0.3.0-red.svg)](https://docs.python.org/3/library/re.html) -->
----
-### 🤖 AI/ML Applications
-
-[![Classification](https://img.shields.io/badge/Classification-AI/ML%20Application-brightgreen.svg)](https://github.com/brian-kipkoech-tanui/taiwandataclassification)
-[![Regression](https://img.shields.io/badge/Regression-AI/ML%20Application-brightgreen.svg)](https://github.com/brian-kipkoech-tanui/Regressionusecase)
-[![Clustering](https://img.shields.io/badge/Clustering-AI/ML%20Application-brightgreen.svg)](https://github.com/brian-kipkoech-tanui/clustering)
-[![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Anomaly_detection) 
-[![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Fraud_detection)
----
-### 📊 Data Science and ML
-
-[![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Data_wrangling)
-[![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Data_cleaning)
-[![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
-[![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Feature_engineering)
-[![Model Building and Evaluation](https://img.shields.io/badge/Model%20Building%20and%20Evaluation-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Model_selection)
----
-### 📜 Miscellaneous
-
-[![Git](https://img.shields.io/badge/Git-v2.46.2-orange.svg)](https://git-scm.com/)
+### Data Science & Machine Learning
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](https://colab.research.google.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Interactive_Computing-orange.svg)](https://jupyter.org/)
 [![Lab](https://img.shields.io/badge/Lab-Jupyter_Lab-lightblue.svg)](https://jupyterlab.readthedocs.io/en/stable/)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-Collaborative_Computing-yellow.svg)](https://colab.research.google.com/)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](https://matplotlib.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-3.6.0-yellow.svg)](https://www.nltk.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](https://pandas.pydata.org/)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[![RegEx](https://img.shields.io/badge/RegEx-0.3.0-red.svg)](https://docs.python.org/3/library/re.html)
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.5.2-red.svg)](https://scikit-learn.org/stable/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.14.1-orange.svg)](https://scipy.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-red.svg)](https://seaborn.pydata.org/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](https://www.snowflake.com/en/)
+[![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
+[![Statsmodels](https://img.shields.io/badge/statsmodels-0.14.3-yellow.svg)](https://www.statsmodels.org/stable/index.html)
+
+### Design
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](https://www.canva.com/)
+
+### Documentation
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](https://www.atlassian.com/software/confluence)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/)
+
+### Framework
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](https://www.anaconda.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/en/stable/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+### Operating System
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows?r=1)
+
+### Package Manager
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/)
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](https://yarnpkg.com/)
+
+### Programming Language
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://www.w3schools.com/css/)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://html.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](https://www.json.org/json-en.html)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](https://yaml.org/)
+
+### Productivity & Workflow
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](https://bitbucket.org/product/)
 [![Microsoft 365](https://img.shields.io/badge/MS_Office-Productivity_Suite-blue.svg)](https://www.office.com/)
+
+### Social Media
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/emtatudatatech)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mainamitch@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/michael-maina-0a6a5b90/)
+
+### Version Control
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
+
+### Web Scraping & APIs
 [![Requests](https://img.shields.io/badge/Requests-HTTP_Library-green.svg)](https://docs.python-requests.org/en/2.32.3/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
