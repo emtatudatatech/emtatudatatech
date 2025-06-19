@@ -50,6 +50,14 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 ---
 
 ## Tool kit
+
+### Artificial Intelligence
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](https://gemini.google.com/app)
+[![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](https://studio.firebase.google.com/)
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](https://chat.deepseek.com/sign_in)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](https://claude.ai/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
+
 ### Cloud System
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
@@ -72,6 +80,7 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](https://www.zoom.com/)
 
 ### Database & SQL
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](https://firebase.google.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
@@ -97,6 +106,7 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](https://www.snowflake.com/en/)
 [![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
 [![Statsmodels](https://img.shields.io/badge/statsmodels-0.14.3-yellow.svg)](https://www.statsmodels.org/stable/index.html)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/discover)
 
 ### Design
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](https://www.canva.com/)
@@ -105,12 +115,19 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](https://www.atlassian.com/software/confluence)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://www.notion.so/)
 
+### Education
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](https://www.codewars.com/users/michaelmainacodes)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](https://www.freecodecamp.org/michaelmainacodes)
+
 ### Framework
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](https://www.anaconda.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](https://www.chartjs.org/)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/en/stable/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 ### Operating System
@@ -154,5 +171,7 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 <br>
 
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
+
+To get the badges used here and many others, visit [Inttter Markdown Badges](https://github.com/inttter/md-badges?tab=readme-ov-file#-programming-language)
 
 ---
