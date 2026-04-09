@@ -57,7 +57,12 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](https://chat.deepseek.com/sign_in)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](https://claude.ai/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
-[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](https://qwen.ai/home)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](https://ollama.com/)
+
+### Blog
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://michaelmaina.substack.com/)
 
 ### Cloud System
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/)
@@ -74,6 +79,7 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](https://docs.python.org/3/library/idle.html)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
 ### Collaboration Tool
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](https://asana.com/)
@@ -109,9 +115,13 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
 [![Statsmodels](https://img.shields.io/badge/statsmodels-0.14.3-yellow.svg)](https://www.statsmodels.org/stable/index.html)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/discover)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](https://spark.apache.org/)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](https://airflow.apache.org/)
 
 ### Design
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](https://unsplash.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 
 ### Documentation
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](https://www.atlassian.com/software/confluence)
@@ -131,13 +141,19 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/en)
 
 ### Operating System
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows?r=1)
 
+### ORM
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
+
 ### Package Manager
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](https://yarnpkg.com/)
+[![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](https://brew.sh/)
 
 ### Programming Language
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
@@ -149,6 +165,7 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](https://yaml.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 
 ### Productivity & Workflow
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](https://bitbucket.org/product/)
@@ -159,6 +176,9 @@ I am dedicated to making an impact, with a focus on AI engineering, analytics en
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:michaelmainacodes@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/michael-maina-0a6a5b90/)
+
+### Terminal
+[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](https://www.zsh.org/)
 
 ### Version Control
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
